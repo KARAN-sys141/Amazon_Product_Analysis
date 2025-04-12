@@ -23,5 +23,5 @@ Using Python libraries such as Pandas, Seaborn, and Matplotlib
 - Visualize patterns using diverse Seaborn plots with color palettes
 
 
-[Download PDF](https://github.com/KARAN-sys141/Amazon_Product_Analysis/raw/main/Amazon_Updated.ipynb) 
+[Download IPYNB File](https://github.com/KARAN-sys141/Amazon_Product_Analysis/raw/main/Amazon_Updated.ipynb) 
 
